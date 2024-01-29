@@ -1,0 +1,8 @@
+int i = 14
+int j = 6
+int k = 45
+int c = i + j
+int g = i * j
+int c = i / j
+tpel i
+
